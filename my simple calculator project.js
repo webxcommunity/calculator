@@ -37,7 +37,6 @@ console.log(colors.bgMagenta(calculator.add(x,y)));
 console.log(colors.bgRed(calculator.subtract(x,y)));
 console.log(colors.bgGreen(calculator.division(x,y)));
 
-
 //package.json
 {
   "name": "timothy-calculator",
@@ -55,3 +54,4 @@ console.log(colors.bgGreen(calculator.division(x,y)));
   "license": "ISC",
   "description": "Calculator Assignment"
 }
+
